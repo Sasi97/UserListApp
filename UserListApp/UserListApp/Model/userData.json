@@ -1,0 +1,30 @@
+{
+    "Users":[
+        {
+            "name":"Sasi",
+            "age":"22",
+            "phnum":"9951212271"
+        },
+        {
+            "name":"Dhenu",
+            "age":"22",
+            "phnum":"9912134457"
+        },
+        {
+            "name":"Chakri",
+            "age":"22",
+            "phnum":"9380998433"
+        },
+        {
+            "name":"Harika",
+            "age":"22",
+            "phnum":"8121270629"
+        },
+        {
+            "name":"Mounika",
+            "age":"22",
+            "phnum":"8121270629"
+        }
+    ]
+    
+}
